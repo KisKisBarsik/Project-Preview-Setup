@@ -21,12 +21,12 @@
     color: #fff;
     text-decoration: none;
     margin-left: 40px;
-    padding: 8ox;
+    padding: 8px;
     border: 1px solid #fff;
     border-radius: 4px;
 }
 
-.navbra a:last-child:hover {
+.navbar a:last-child:hover {
     background: #fff;
     color: #333;
 }
