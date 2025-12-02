@@ -36,6 +36,43 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "id": "cd27",
+      "title": "Veg pie",
+      "ingredients": [
+        "mushrooms",
+        "leeks",
+        "tofu",
+        "carrots"
+      ],
+      "method": "Blah blah blah",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "65c0",
+      "title": "Chickpea Curry",
+      "ingredients": [
+        "chickpeas",
+        "onions",
+        "rice",
+        "garlic"
+      ],
+      "method": "Blah blah blah blah",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "e195",
+      "title": "Borsh",
+      "ingredients": [
+        "potato",
+        "cabage",
+        "carrot",
+        "pork",
+        "beetroot"
+      ],
+      "method": "Blah blah blah blah",
+      "cookingTime": "75 minutes"
     }
   ]
 }
